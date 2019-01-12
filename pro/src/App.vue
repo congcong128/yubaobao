@@ -25,6 +25,7 @@ export default {
 
 <style>
 *{margin: 0;padding: 0;}
+a{text-decoration: none;}
 img{display: block;}
 li{list-style: none;}
 header{width: 100%;height: 45px;color: rgba(16, 16, 16, 1);font-size: 18px;text-align: center;font-family: Microsoft Yahei;background: #E5E5E5 100%;line-height: 45px;position: relative;}
@@ -48,7 +49,6 @@ footer{width: 100vw;
 		text-align: center;
 		border-radius: 5px;
 	}
-.abc{color: red;}
 h2{font-size: 16px;color: #101010;}
 .router-link-active{background-color: skyblue;}
 </style>
