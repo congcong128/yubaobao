@@ -59,71 +59,69 @@ import Collect from '@/components/Collect'
 ///*以上是段晓飞*/
 //
 //
-//import HelloWorld from '@/components/HelloWorld'
-//import Shouye from '@/components/Shouye'
-//// 课程
-//import Kecheng from '@/components/Kecheng'
-//import zao from '@/components/zao'
-//import ke from '@/components/ke'
-//import zixun from "@/components/zixun"
-//import shikan from "@/components/shikan"
-//import shikan_list from "@/components/shikan_list"
-//import shikan_detail from "@/components/shikan_detail"
-//import gou from "@/components/gou"
 //
-//import sheng from "@/components/sheng"
-//import sheng_neng from "@/components/sheng_neng"
-//import sheng_fen from "@/components/sheng_fen"
-//import sheng_zhu from "@/components/sheng_zhu"
-//import sheng_jiao from "@/components/sheng_jiao"
-//import sheng_jiao1 from "@/components/sheng_jiao1"
-//import sheng_jiao_ping from "@/components/sheng_jiao_ping"
-//
-//import shipu from "@/components/shipu"
-//import shipu_fen from "@/components/shipu_fen"
-//import shipu_yunqi from "@/components/shipu_yunqi"
-//import shipu_jiaozuo from "@/components/shipu_jiaozuo"
-//
-//import ting from "@/components/ting"
-//import ting_xiao from "@/components/ting_xiao"
-//import ting_xiaobaitu from "@/components/ting_xiaobaitu"
-//
-//import Sou from '@/components/Sou'
-//import She from '@/components/She'
-//import Wo from '@/components/Wo'
-////宝宝
-//import bao from '@/components/bao'
-//import bao_baobei from '@/components/bao_baobei'
-//import b_q_y from '@/components/b_q_y'
-//import b_q_y_n from '@/components/b_q_y_n'
-//import b_q_y_x from '@/components/b_q_y_x'
-//import b_q_y_x_f from '@/components/b_q_y_x_f'
-//
-//import b_q_y_y from '@/components/b_q_y_y'
-//import bbz from '@/components/bbz'
-//import bxc from '@/components/bxc'
-//import bxcf from '@/components/bxcf'
-//import bxcz from '@/components/bxcz'
-//import bxczq from '@/components/bxczq'
-//import bbzx from '@/components/bbzx'
-//// 第一次
-//import bdy from '@/components/bdy'
-//import bdy1 from '@/components/bdy1'
-//import bdyzd from '@/components/bdyzd'
-//import bdynn from '@/components/bdynn'
-////成长
-//import bchengzhang from '@/components/bchengzhang'
-//import bchengzhang_jilu from '@/components/bchengzhang_jilu'
-//import bchengzhang_tianjia from '@/components/bchengzhang_tianjia'
-////相册
-//import bxiangce from '@/components/bxiangce'
-//import bxiangce_footer from '@/components/bxiangce_footer'
-//import bxiangce_nei from '@/components/bxiangce_nei'
-//import bxiangce_xinjian from '@/components/bxiangce_xinjian'
-//import bzhaopian_shangchuan from '@/components/bzhaopian_shangchuan'
-//import xiangce from '@/components/xiangce'
-//
-//import a1 from '@/components/a1'
+// 课程
+import kecheng from '@/components/Kecheng'
+import zao from '@/components/zao'
+import ke from '@/components/ke'
+import zixun from "@/components/zixun"
+import shikan from "@/components/shikan"
+import shikan_list from "@/components/shikan_list"
+import shikan_detail from "@/components/shikan_detail"
+import gou from "@/components/gou"
+
+import sheng from "@/components/sheng"
+import sheng_neng from "@/components/sheng_neng"
+import sheng_fen from "@/components/sheng_fen"
+import sheng_zhu from "@/components/sheng_zhu"
+import sheng_jiao from "@/components/sheng_jiao"
+import sheng_jiao1 from "@/components/sheng_jiao1"
+import sheng_jiao_ping from "@/components/sheng_jiao_ping"
+
+import shipu from "@/components/shipu"
+import shipu_fen from "@/components/shipu_fen"
+import shipu_yunqi from "@/components/shipu_yunqi"
+import shipu_jiaozuo from "@/components/shipu_jiaozuo"
+
+import ting from "@/components/ting"
+import ting_xiao from "@/components/ting_xiao"
+import ting_xiaobaitu from "@/components/ting_xiaobaitu"
+
+import Sou from '@/components/Sou'
+
+//宝宝
+
+import bao_baobei from '@/components/bao_baobei'
+import b_q_y from '@/components/b_q_y'
+import b_q_y_n from '@/components/b_q_y_n'
+import b_q_y_x from '@/components/b_q_y_x'
+import b_q_y_x_f from '@/components/b_q_y_x_f'
+
+import b_q_y_y from '@/components/b_q_y_y'
+import bbz from '@/components/bbz'
+import bxc from '@/components/bxc'
+import bxcf from '@/components/bxcf'
+import bxcz from '@/components/bxcz'
+import bxczq from '@/components/bxczq'
+import bbzx from '@/components/bbzx'
+// 第一次
+import bdy from '@/components/bdy'
+import bdy1 from '@/components/bdy1'
+import bdyzd from '@/components/bdyzd'
+import bdynn from '@/components/bdynn'
+//成长
+import bchengzhang from '@/components/bchengzhang'
+import bchengzhang_jilu from '@/components/bchengzhang_jilu'
+import bchengzhang_tianjia from '@/components/bchengzhang_tianjia'
+//相册
+import bxiangce from '@/components/bxiangce'
+import bxiangce_footer from '@/components/bxiangce_footer'
+import bxiangce_nei from '@/components/bxiangce_nei'
+import bxiangce_xinjian from '@/components/bxiangce_xinjian'
+import bzhaopian_shangchuan from '@/components/bzhaopian_shangchuan'
+import xiangce from '@/components/xiangce'
+
+import a1 from '@/components/a1'
 
 /*以上是茹燕斌的*/
 
@@ -131,36 +129,28 @@ Vue.use(Router)
 
 export default new Router({
   routes: [
-		{path: '/',name: 'Welcome',component: Welcome,},
-		{path:'/care',name:'Care',component:Care},
-		{path:'/hot',name:'Hot',component:Hot},
-		{path:'/mine',name:'Mine',component:Mine},
-		{path:'/home',name:'Home',component:Home},
-		{path:'/yunqi',name:'Yunqi',component:Yunqi},
-    {path:'/yichusheng',name:'Yichusheng',component:Yichusheng},
-    {path:'/massage',name:'Massage',component:Massage},
-    {path:'/helloworld',name:'Helloworld',component:HelloWorld},
-    {path:'/fensi',name:'Fensi',component:Fensi},
-    {path:'/guanzhu',name:'Guanzhu',component:Guanzhu},
-    {path:'/kecheng',name:'Kecheng',component:Kecheng},
-    {path:'/baobaoji',name:'Baobaoji',component:Baobaoji},
-    {path:'/my',name:'My',component:My},
-    {path:'/detail',name:'Detail',component:Detail},
-    {path:'/pinglun',name:'Pinglun',component:Pinglun},
-    {path:'/makepic',name:'Makepic',component:Makepic},
-    {path:'/goumai',name:'Goumai',component:Goumai},
+		{path: '/',component: Welcome},
+		{path:'/care',component:Care},
+		{path:'/hot',component:Hot},
+		{path:'/mine',component:Mine},
+		{path:'/home',component:Home},
+		{path:'/yunqi',component:Yunqi},
+    {path:'/yichusheng',component:Yichusheng},
+    {path:'/massage',component:Massage},
+    {path:'/helloworld',component:HelloWorld},
+    {path:'/fensi',component:Fensi},
+    {path:'/guanzhu',component:Guanzhu},
+    {path:'/kecheng',component:Kecheng},
+    {path:'/baobaoji',component:Baobaoji},
+    {path:'/my',component:My},
+    {path:'/detail',component:Detail},
+    {path:'/pinglun',component:Pinglun},
+    {path:'/makepic',component:Makepic},
+    {path:'/goumai',component:Goumai},
     
     /*------------以上是我写的-----------------------------------------------------*/
    	
-// 	{
-//    path: '/',
-//    name: 'HelloWorld',
-//    component: HelloWorld,
-//  },
-//  {
-//    path:'/My',
-//		  component:My
-//		},
+
     {
     	path:'/Info',
     	component:Info
@@ -307,262 +297,258 @@ export default new Router({
 //
 //  },
 //  //  宝宝
-//  {
-//    path: '/a1',
-//    component: a1
-//  },
-//  {
-//    path: '/bao',
-//    component: bao
-//  },
-//  {
-//    path: '/bao_baobei',
-//    component: bao_baobei
-//  },
-//  {
-//    path: '/bbz',
-//    component: bbz
-//  },
-//
-//
-//  {
-//    path: '/bxc',
-//
-//    component: bxc,
-//    children: [{
-//        path: '/bbzx',
-//        component: bbzx
-//      },
-//      {
-//        path: '/bxiangce_nei',
-//        component: bxiangce_nei
-//      }
-//
-//      , {
-//        path: '/bxczq',
-//        component: bxczq
-//      },
-//      {
-//        path: '/bzhaopian_shangchuan',
-//        component: bzhaopian_shangchuan,
-//      },
-//      {
-//        path: '/bxcf',
-//        redirect: '/bxcz',
-//        component: bxcf,
-//        children: [{
-//          path: '/bxcz',
-//          component: bxcz,
-//        }]
-//      }
-//    ]
-//  },
-//
-//
-//
-//  //宝贝 第一次
-//  {
-//    path: '/bdy',
-//    component: bdy,
-//    children: [{
-//        path: '/bdy1',
-//        component: bdy1
-//      },
-//      {
-//        path: '/bdyzd',
-//        component: bdyzd
-//      },
-//
-//      {
-//        path: '/bdynn',
-//        component: bdynn,
-//      },
-//
-//
-//    ]
-//  },
-//  //宝贝成长
-//  {
-//    path: '/bchengzhang',
-//    component: bchengzhang,
-//    children: [{
-//        path: '/bchengzhang_jilu',
-//        component: bchengzhang_jilu
-//      },
-//      {
-//        path: '/bchengzhang_tianjia',
-//        component: bchengzhang_tianjia
-//      },
-//    ]
-//  },
-//  //宝贝相册
-//  {
-//    path: '/bxiangce',
-//    component: bxiangce,
-//    children: [{
-//        path: '/bxiangce_footer',
-//        component: bxiangce_footer,
-//        children: [{
-//          path: '/bxiangce_nei',
-//          component: bxiangce_nei
-//        }]
-//      },
-//      {
-//        path: '/bxiangce_xinjian',
-//        component: bxiangce_xinjian,
-//      },
-//      {
-//        path: '/bzhaopian_shangchuan/:uid',
-//        component: bzhaopian_shangchuan,
-//      },
-//      {
-//        path: '/xiangce',
-//        component: xiangce,
-//      }
-//    ]
-//  },
-//
-//
-//  //亲友团
-//  {
-//    path: '/b_q_y',
-//    redirect: 'b_q_y_n',
-//    component: b_q_y,
-//    children: [{
-//        path: '/b_q_y_n',
-//        component: b_q_y_n
-//      },
-//      {
-//        path: '/b_q_y_x',
-//        component: b_q_y_x,
-//      },
-//      {
-//        path: '/b_q_y_x_f',
-//        redirect: '/b_q_y_x',
-//        component: b_q_y_x_f,
-//        children: []
-//      },
-//      {
-//        path: '/b_q_y_y',
-//        component: b_q_y_y
-//      }
-//
-//    ]
-//  },
-//  //课程
-//  //ting
-//  {
-//    path: '/ting',
-//    component: ting,
-//    children: [
-//
-//      {
-//        path: '/ting_xiao',
-//        component: ting_xiao
-//      },
-//      {
-//        path: '/ting_xiaobaitu/:mdType',
-//        component: ting_xiaobaitu,
-//      },
-//    ]
-//  },
-//
-//
-//
-//  {
-//    path: '/kecheng',
-//    component: Kecheng,
-//  },
-//  {
-//    path: '/sheng',
-//    component: sheng
-//  },
-//  {
-//    path: '/sheng_jiao',
-//    redirect: '/sheng_jiao1',
-//    component: sheng_jiao,
-//    children: [{
-//        path: '/sheng_jiao1',
-//        component: sheng_jiao1,
-//      },
-//      {
-//        path: '/sheng_jiao_ping',
-//        component: sheng_jiao_ping,
-//      },
-//    ]
-//  },
-//  {
-//    path: '/sheng_neng',
-//    redirect: '/sheng_fen',
-//    component: sheng_neng,
-//    children: [{
-//        path: '/sheng_fen',
-//        component: sheng_fen
-//      },
-//      {
-//        path: '/sheng_zhu',
-//        component: sheng_zhu
-//      },
-//    ]
-//  },
-//  {
-//    path: '/shipu',
-//    component: shipu,
-//    children: [
-//
-//      {
-//        path: '/shipu_fen',
-//        component: shipu_fen,
-//      },
-//      {
-//        path: '/shipu_yunqi',
-//        component: shipu_yunqi,
-//      },
-//      {
-//        path: '/shipu_jiaozuo',
-//        component: shipu_jiaozuo,
-//      },
-//      {
-//        path: '/sheng_jiao_ping',
-//        component: sheng_jiao_ping,
-//      },
-//    ]
-//
-//  },
-//  {
-//    path: '/gou',
-//    component: gou
-//  },
-//  {
-//    path: '/sou',
-//    component: Sou
-//  },
-//
-//  {
-//    path:'/zao/:ltid',
-//    component: zao
-//  },
-//  {
-//    path: '/ke/:leid',
-//    component: ke
-//  },
-//  {
-//    path: '/zixun',
-//    component: zixun
-//  },
-//  {
-//    path: '/shikan',
-//    component: shikan,
-//    children: [{
-//        path: '/shikan_list',
-//        component: shikan_list,
-//      },
-//      {
-//        path: '/shikan_detail',
-//        component: shikan_detail
-//      }
-//    ]
-//  }
+    {
+      path: '/a1',
+      component: a1
+    },
+
+    {
+      path: '/bao_baobei',
+      component: bao_baobei
+    },
+    {
+      path: '/bbz',
+      component: bbz
+    },
+
+
+    {
+      path: '/bxc',
+
+      component: bxc,
+      children: [{
+          path: '/bbzx',
+          component: bbzx
+        },
+        {
+          path: '/bxiangce_nei',
+          component: bxiangce_nei
+        }
+
+        , {
+          path: '/bxczq',
+          component: bxczq
+        },
+        {
+          path: '/bzhaopian_shangchuan',
+          component: bzhaopian_shangchuan,
+        },
+        {
+          path: '/bxcf',
+          redirect: '/bxcz',
+          component: bxcf,
+          children: [{
+            path: '/bxcz',
+            component: bxcz,
+          }]
+        }
+      ]
+    },
+
+
+
+    //宝贝 第一次
+    {
+      path: '/bdy',
+      component: bdy,
+      children: [{
+          path: '/bdy1',
+          component: bdy1
+        },
+        {
+          path: '/bdyzd',
+          component: bdyzd
+        },
+
+        {
+          path: '/bdynn',
+          component: bdynn,
+        },
+
+
+      ]
+    },
+    //宝贝成长
+    {
+      path: '/bchengzhang',
+      component: bchengzhang,
+      children: [{
+          path: '/bchengzhang_jilu',
+          component: bchengzhang_jilu
+        },
+        {
+          path: '/bchengzhang_tianjia',
+          component: bchengzhang_tianjia
+        },
+      ]
+    },
+    //宝贝相册
+    {
+      path: '/bxiangce',
+      component: bxiangce,
+      children: [{
+          path: '/bxiangce_footer',
+          component: bxiangce_footer,
+          children: [{
+            path: '/bxiangce_nei',
+            component: bxiangce_nei
+          }]
+        },
+        {
+          path: '/bxiangce_xinjian',
+          component: bxiangce_xinjian,
+        },
+        {
+          path: '/bzhaopian_shangchuan/:uid',
+          component: bzhaopian_shangchuan,
+        },
+        {
+          path: '/xiangce',
+          component: xiangce,
+        }
+      ]
+    },
+
+
+    //亲友团
+    {
+      path: '/b_q_y',
+      redirect: 'b_q_y_n',
+      component: b_q_y,
+      children: [{
+          path: '/b_q_y_n',
+          component: b_q_y_n
+        },
+        {
+          path: '/b_q_y_x',
+          component: b_q_y_x,
+        },
+        {
+          path: '/b_q_y_x_f',
+          redirect: '/b_q_y_x',
+          component: b_q_y_x_f,
+          children: []
+        },
+        {
+          path: '/b_q_y_y',
+          component: b_q_y_y
+        }
+
+      ]
+    },
+    //课程
+    //ting
+    {
+      path: '/ting',
+      component: ting,
+      children: [
+
+        {
+          path: '/ting_xiao',
+          component: ting_xiao
+        },
+        {
+          path: '/ting_xiaobaitu/:mdType',
+          component: ting_xiaobaitu,
+        },
+      ]
+    },
+
+    {
+      path: '/kecheng',
+     
+      component: Kecheng,
+    },
+    {
+      path: '/sheng',
+      component: sheng
+    },
+    {
+      path: '/sheng_jiao',
+      redirect: '/sheng_jiao1',
+      component: sheng_jiao,
+      children: [{
+          path: '/sheng_jiao1',
+          component: sheng_jiao1,
+        },
+        {
+          path: '/sheng_jiao_ping',
+          component: sheng_jiao_ping,
+        },
+      ]
+    },
+    {
+      path: '/sheng_neng',
+      redirect: '/sheng_fen',
+      component: sheng_neng,
+      children: [{
+          path: '/sheng_fen',
+          component: sheng_fen
+        },
+        {
+          path: '/sheng_zhu',
+          component: sheng_zhu
+        },
+      ]
+    },
+    {
+      path: '/shipu',
+      component: shipu,
+      children: [
+
+        {
+          path: '/shipu_fen',
+          component: shipu_fen,
+        },
+        {
+          path: '/shipu_yunqi',
+          component: shipu_yunqi,
+        },
+        {
+          path: '/shipu_jiaozuo',
+          component: shipu_jiaozuo,
+        },
+        {
+          path: '/sheng_jiao_ping',
+          component: sheng_jiao_ping,
+        },
+      ]
+
+    },
+    {
+      path: '/gou',
+      component: gou
+    },
+    {
+      path: '/sou',
+      component: Sou
+    },
+
+    {
+      path:'/zao/:ltid',
+      component: zao
+    },
+    {
+      path: '/ke/:leid',
+      component: ke
+    },
+    {
+      path: '/zixun',
+      component: zixun
+    },
+    {
+      path: '/shikan',
+      component: shikan,
+      children: [{
+          path: '/shikan_list',
+          component: shikan_list,
+        },
+        {
+          path: '/shikan_detail',
+          component: shikan_detail
+        }
+      ]
+    }
    
    
   ]
