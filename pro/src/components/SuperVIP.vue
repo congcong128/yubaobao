@@ -25,7 +25,7 @@
 				var _this=this;
 			  		axios({
 			  			method:"post",
-			  			url:'http://10.8.155.17:8081/baby/user/updatetime.do',
+			  			url:'http://47.107.246.156:8080/baby/user/updatetime.do',
 			  			params:{id:1}
 			  		}).then(function(data){
 			  			console.log(data)

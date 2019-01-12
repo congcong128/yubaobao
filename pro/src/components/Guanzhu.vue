@@ -21,7 +21,7 @@
 <script>
 	import axios from 'axios';
 	import Mock from 'mockjs';
-	Mock.mock('http://www.baidu.comg',{
+	Mock.mock('http://www.baidu.comg/guanzhu',{
 		'users|10-20':[
 				{
 					"userid|+1":0,
@@ -46,7 +46,7 @@
 			var _this=this;
 			axios({
 				method:'get',
-				url:'http://www.baidu.comg'
+				url:'http://www.baidu.comg/guanzhu'
 			}).then(function(data){
 				console.log(data.data.users);
 				_this.arr=data.data.users;
